@@ -8,8 +8,9 @@ Easy Eats is a simple Android application that helps users explore and view diff
 - Clean and simple user interface  
 
 ## Tech Stack
-- Kotlin / Java  
-- XML / Jetpack Compose  
+- Kotlin  
+- XML
+- Room DB 
 - Android Studio  
 
 ## How to Run
