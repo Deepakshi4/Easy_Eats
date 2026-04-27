@@ -58,6 +58,6 @@
             android:textColor="#191919"
             android:fontFamily="@font/alata"
             android:layout_marginStart="10dp"
-            android:text="Developed By : Abhay" />
+            android:text="Developed By : Deepakshi" />
     </LinearLayout>
 </LinearLayout>
